@@ -1,0 +1,43 @@
+source,target,realValue,layerID,layerColor,layerUnit
+Gasoline import,Gasoline,4.46,Gasoline,#808080,TWh
+Gasoline,Mobility private,4.46,Gasoline,#808080,TWh
+Diesel import,Diesel,5.29,Diesel,#D3D3D3,TWh
+Diesel,Mobility private,5.29,Diesel,#D3D3D3,TWh
+Natural gas import,Natural gas,106.59,Natural gas,#FFD700,TWh
+Natural gas,Mobility private,2.49,Natural gas,#FFD700,TWh
+Natural gas,Mobility public,7.24,Natural gas,#FFD700,TWh
+Natural gas,Hydrogen,6.85,Natural gas,#FFD700,TWh
+Natural gas,Electricity,28.94,Natural gas,#FFD700,TWh
+Natural gas,CHP,5.42,Natural gas,#FFD700,TWh
+Natural gas,Heat pumps,6.58,Natural gas,#FFD700,TWh
+Natural gas,Boilers,49.07,Natural gas,#FFD700,TWh
+Electricity import,Electricity,0.57,Electricity,#00BFFF,TWh
+Wind,Electricity,14.85,Wind,#FFA500,TWh
+Hydro dam,Electricity,17.49,Hydro dam,#00CED1,TWh
+Hydro river,Electricity,18.12,Hydro river,#0000FF,TWh
+Coal import,Coal,21.10,Coal,#A0522D,TWh
+Coal import,Coal CCS,0.00,Coal,#A0522D,TWh
+Coal,Boilers,21.10,Coal,#A0522D,TWh
+Solar,Electricity,7.61,Solar,#FFFF00,TWh
+Solar,Heat LT dec,1.23,Solar,#FFFF00,TWh
+Geothermal,DHN,7.97,Geothermal,#FF0000,TWh
+Waste,Boilers,11.14,Waste,#808000,TWh
+Oil import,Oil,5.80,Oil,#8B008B,TWh
+Oil,Boilers,5.80,Oil,#8B008B,TWh
+Electricity,Mobility private,1.71,Electricity,#00BFFF,TWh
+Electricity,Mobility public,4.90,Electricity,#00BFFF,TWh
+Electricity,Freight,1.43,Electricity,#00BFFF,TWh
+Electricity,Losses electricity,5.57,Electricity,#00BFFF,TWh
+Electricity,Electricity demand,65.29,Electricity,#00BFFF,TWh
+Electricity,Heat pumps,0.65,Electricity,#00BFFF,TWh
+Hydrogen,Mobility private,2.70,Hydrogen,#FF00FF,TWh
+Hydrogen,Freight,2.45,Hydrogen,#FF00FF,TWh
+CHP,Electricity,2.71,Electricity,#00BFFF,TWh
+CHP,DHN,2.17,Heat LT,#FA8072,TWh
+Heat pumps,Heat LT dec,9.83,Heat LT,#FA8072,TWh
+Heat pumps,DHN,2.61,Heat LT,#FA8072,TWh
+Boilers,Heat LT dec,38.08,Heat LT,#FA8072,TWh
+Boilers,DHN,3.19,Heat LT,#FA8072,TWh
+Boilers,Heat HT,34.59,Heat HT,#DC143C,TWh
+DHN,Heat LT DHN,24.47,Heat LT,#FA8072,TWh
+DHN,Losses DHN,1.29,Heat LT,#FA8072,TWh
