@@ -1,6 +1,6 @@
 Hello guys, this is the README, aiming to explain a bit where to find what in this git.
 
-In the folder [Code](Code), there are currently the code files:
+In the folder [Code](Code), there are currently the code files: \\
 a) 
 b)
 
