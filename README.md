@@ -5,3 +5,7 @@ In the folder [Code](Code), there are currently the code files:
 - [visualization](Code/visualization): this is the code which creates the visualizations of the code (or at least a first one, as simple bar chart, until now)
 
 In the folder [excel_files](excel_files) you can find all the excels that were created to run the different models.
+
+And in the folder [model_output](model_output) you can find the folders with the result files obtained after uploading the excel files to the model to run it.
+
+Let me know if there are any questions :) Daniel
