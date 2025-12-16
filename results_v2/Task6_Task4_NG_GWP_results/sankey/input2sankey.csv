@@ -1,0 +1,47 @@
+source,target,realValue,layerID,layerColor,layerUnit
+Gasoline import,Gasoline,5.40,Gasoline,#808080,TWh
+Gasoline,Mobility private,4.46,Gasoline,#808080,TWh
+Gasoline,Mobility private,0.93,Gasoline,#808080,TWh
+Diesel import,Diesel,5.29,Diesel,#D3D3D3,TWh
+Diesel,Mobility private,5.29,Diesel,#D3D3D3,TWh
+Natural gas import,Natural gas,17.80,Natural gas,#FFD700,TWh
+Natural gas,Mobility public,2.41,Natural gas,#FFD700,TWh
+Natural gas,Hydrogen,3.25,Natural gas,#FFD700,TWh
+Natural gas,Heat pumps,0.85,Natural gas,#FFD700,TWh
+Natural gas,Boilers,26.53,Natural gas,#FFD700,TWh
+Wind,Electricity,14.85,Wind,#FFA500,TWh
+Hydro dam,Electricity,23.77,Hydro dam,#00CED1,TWh
+Hydro river,Electricity,27.83,Hydro river,#0000FF,TWh
+Solar,Electricity,55.51,Solar,#FFFF00,TWh
+Solar,Heat LT dec,7.75,Solar,#FFFF00,TWh
+Geothermal,Electricity,4.91,Geothermal,#FF0000,TWh
+Geothermal,DHN,11.99,Geothermal,#FF0000,TWh
+Waste,Boilers,11.14,Waste,#808000,TWh
+Oil import,Oil,3.35,Oil,#8B008B,TWh
+Oil,Boilers,5.32,Oil,#8B008B,TWh
+Wood,Biofuels,2.96,Wood,#CD853F,TWh
+Wood,Boilers,9.32,Wood,#CD853F,TWh
+Electricity,Mobility private,1.97,Electricity,#00BFFF,TWh
+Electricity,Mobility public,4.90,Electricity,#00BFFF,TWh
+Electricity,Freight,1.43,Electricity,#00BFFF,TWh
+Electricity,Losses electricity,8.90,Electricity,#00BFFF,TWh
+Electricity,Electricity demand,65.29,Electricity,#00BFFF,TWh
+Electricity,Heat pumps,9.24,Electricity,#00BFFF,TWh
+Electricity,Hydrogen,7.86,Electricity,#00BFFF,TWh
+Electricity,Heat HT,6.92,Electricity,#00BFFF,TWh
+Hydrogen,Mobility private,2.70,Hydrogen,#FF00FF,TWh
+Hydrogen,Mobility public,3.58,Hydrogen,#FF00FF,TWh
+Hydrogen,Freight,2.45,Hydrogen,#FF00FF,TWh
+Heat pumps,Heat LT dec,23.82,Heat LT,#FA8072,TWh
+Heat pumps,DHN,7.19,Heat LT,#FA8072,TWh
+Biofuels,Electricity,0.05,Electricity,#00BFFF,TWh
+Biofuels,Oil,1.97,Oil,#8B008B,TWh
+Electricity,Power to gas,20.58,Electricity,#00BFFF,TWh
+Power to gas,Natural gas,15.47,Natural gas,#FFD700,TWh
+Natural gas,Gas to power,0.23,Natural gas,#FFD700,TWh
+Gas to power,Electricity,0.18,Electricity,#00BFFF,TWh
+Boilers,Heat LT dec,13.53,Heat LT,#FA8072,TWh
+Boilers,DHN,4.80,Heat LT,#FA8072,TWh
+Boilers,Heat HT,27.67,Heat HT,#DC143C,TWh
+DHN,Heat LT DHN,24.47,Heat LT,#FA8072,TWh
+DHN,Losses DHN,1.29,Heat LT,#FA8072,TWh
